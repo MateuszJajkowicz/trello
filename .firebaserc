@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "trello-angular-43029"
+  },
+  "targets": {
+    "trello-angular-43029": {
+      "hosting": {
+        "trello": [
+          "trello-angular-mj"
+        ]
+      }
+    }
+  }
+}
